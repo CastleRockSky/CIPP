@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5028],{56764:(_,n,u)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/loading",function(){return u(83562)}])}},_=>{var n=n=>_(_.s=n);_.O(0,[636,6593,8792],()=>n(56764)),_N_E=_.O()}]);
